@@ -24,7 +24,7 @@
         <allow-intent href="itms-apps:*" />
     </platform>
   <plugin name="cordova-plugin-googlemaps" spec="2.3.6">
-    <variable name="API_KEY_FOR_ANDROID" value="(api key)" />
+    <variable name="API_KEY_FOR_ANDROID" value="AIzaSyDWuwGUbCqjWPAIq2tEoHHxEgDzNZHZwtU" />
     <variable name="API_KEY_FOR_IOS" value="(api key)" />
   </plugin>
 
